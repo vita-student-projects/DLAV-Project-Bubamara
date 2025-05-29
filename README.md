@@ -40,6 +40,10 @@ jupyter notebook your/path/to/DLAV_Phase3.ipynb
 Please read CIVIL_459_Bubamara_poster.pdf for a more detailed overview of the project and it's results.
 
 
+#### Note
+Milestones 1 and 2 were submitted via Moodle page
+
+
 
 
 
