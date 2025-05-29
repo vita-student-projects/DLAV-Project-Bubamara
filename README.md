@@ -3,6 +3,7 @@
 # Team Bubamara
 ## File
 - `DLAV_Phase3.ipynb` – contains our final Jupyter Notebook for Milestone 3 (Sim-to-Real Generalization) of the Deep Learning for Autonomous Vehicles project (CIVIL-459)
+- `https://drive.google.com/file/d/1V6bMEs64L3SltI6OoVOrl9qqe3w7vv9o/view?usp=drivesdk` - contains the final model achieving our best result. it os too big for uploading on GitHub. please find it with this link.
 
 ## Overview
 We implement an end-to-end trajectory planning model for autonomous driving, designed to generalize from simulated to real-world domains.
